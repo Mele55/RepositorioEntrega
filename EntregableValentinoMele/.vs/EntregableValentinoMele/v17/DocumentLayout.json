@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valen\\source\\repos\\EntregableValentinoMele\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40F2E412-81FF-4270-B4F5-E4B591284C88}|EntregableValentinoMele\\EntregableValentinoMele.csproj|c:\\users\\valen\\source\\repos\\entregablevalentinomele\\entregablevalentinomele\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F2E412-81FF-4270-B4F5-E4B591284C88}|EntregableValentinoMele\\EntregableValentinoMele.csproj|solutionrelative:entregablevalentinomele\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F2E412-81FF-4270-B4F5-E4B591284C88}|EntregableValentinoMele\\EntregableValentinoMele.csproj|c:\\users\\valen\\source\\repos\\entregablevalentinomele\\entregablevalentinomele\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F2E412-81FF-4270-B4F5-E4B591284C88}|EntregableValentinoMele\\EntregableValentinoMele.csproj|solutionrelative:entregablevalentinomele\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F2E412-81FF-4270-B4F5-E4B591284C88}|EntregableValentinoMele\\EntregableValentinoMele.csproj|c:\\users\\valen\\source\\repos\\entregablevalentinomele\\entregablevalentinomele\\productovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F2E412-81FF-4270-B4F5-E4B591284C88}|EntregableValentinoMele\\EntregableValentinoMele.csproj|solutionrelative:entregablevalentinomele\\productovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F2E412-81FF-4270-B4F5-E4B591284C88}|EntregableValentinoMele\\EntregableValentinoMele.csproj|c:\\users\\valen\\source\\repos\\entregablevalentinomele\\entregablevalentinomele\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F2E412-81FF-4270-B4F5-E4B591284C88}|EntregableValentinoMele\\EntregableValentinoMele.csproj|solutionrelative:entregablevalentinomele\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F2E412-81FF-4270-B4F5-E4B591284C88}|EntregableValentinoMele\\EntregableValentinoMele.csproj|c:\\users\\valen\\source\\repos\\entregablevalentinomele\\entregablevalentinomele\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F2E412-81FF-4270-B4F5-E4B591284C88}|EntregableValentinoMele\\EntregableValentinoMele.csproj|solutionrelative:entregablevalentinomele\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\EntregableValentinoMele\\EntregableValentinoMele\\Venta.cs",
+              "RelativeDocumentMoniker": "EntregableValentinoMele\\Venta.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\EntregableValentinoMele\\EntregableValentinoMele\\Venta.cs",
+              "RelativeToolTip": "EntregableValentinoMele\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:02:40.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoVendido.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\EntregableValentinoMele\\EntregableValentinoMele\\ProductoVendido.cs",
+              "RelativeDocumentMoniker": "EntregableValentinoMele\\ProductoVendido.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\EntregableValentinoMele\\EntregableValentinoMele\\ProductoVendido.cs",
+              "RelativeToolTip": "EntregableValentinoMele\\ProductoVendido.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:55:03.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\EntregableValentinoMele\\EntregableValentinoMele\\Producto.cs",
+              "RelativeDocumentMoniker": "EntregableValentinoMele\\Producto.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\EntregableValentinoMele\\EntregableValentinoMele\\Producto.cs",
+              "RelativeToolTip": "EntregableValentinoMele\\Producto.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:48:51.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\EntregableValentinoMele\\EntregableValentinoMele\\Usuario.cs",
+              "RelativeDocumentMoniker": "EntregableValentinoMele\\Usuario.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\EntregableValentinoMele\\EntregableValentinoMele\\Usuario.cs",
+              "RelativeToolTip": "EntregableValentinoMele\\Usuario.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:31:27.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\EntregableValentinoMele\\EntregableValentinoMele\\Program.cs",
+              "RelativeDocumentMoniker": "EntregableValentinoMele\\Program.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\EntregableValentinoMele\\EntregableValentinoMele\\Program.cs",
+              "RelativeToolTip": "EntregableValentinoMele\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:30:23.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
