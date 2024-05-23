@@ -9,10 +9,10 @@ namespace EntregableValentinoMele
 {
     public abstract class ProductoVendido
     {
-        protected int Id { get; set; }
-        protected int IdProducto { get; set; }
-        protected int Stock { get; set; }
-        protected char IdVenta { get; set; }
+        internal int Id { get; set; }
+        internal int IdProducto { get; set; }
+        internal int Stock { get; set; }
+        internal char IdVenta { get; set; }
 
         public ProductoVendido(int id, int idproducto, int stock, char idventa)
         {

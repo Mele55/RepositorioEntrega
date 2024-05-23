@@ -9,9 +9,9 @@ namespace EntregableValentinoMele
 {
     public abstract class Venta
     {
-        protected int Id { get; set; }
-        protected string Comentarios { get; set; }
-        protected int IdUsuario { get; set; }
+        internal int Id { get; set; }
+        internal string Comentarios { get; set; }
+        internal int IdUsuario { get; set; }
         public Venta(int id, string comentarios, int idusuario)
         {
             this.Id = id;

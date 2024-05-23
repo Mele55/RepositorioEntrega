@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace EntregableValentinoMele
 {
-    public abstract class Producto
+    public class Producto
     {
-        protected int Id { get; set; }
-        protected string Descripcion { get; set; }
-        protected int Costo { get; set; }
-        protected double PrecioVenta { get; set; }
-        protected int Stock { get; set; }
-        protected char IdUsuario { get; set; }
+        internal int Id { get; set; }
+        internal string Descripcion { get; set; }
+        internal int Costo { get; set; }
+        internal double PrecioVenta { get; set; }
+        internal int Stock { get; set; }
+        internal char IdUsuario { get; set; }
         public Producto(int id, string descripcion, int costo, double precioVenta, int stock, char idUsuario)
         {
             this.Id = id;
